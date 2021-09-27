@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Bem vindos ao meu perfil!
 
-<!--
-**yurimatos11/yurimatos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  Nome: Yuri Matos Cabello ™️;</br>
+  Cidade: São Paulo-SP 🏠;</br>
+  Idade: 20 anos 🆔;</br>
+  Dev: Front-End 👨🏻‍💻;
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3>Social Media</h3>
+  <a href="https://www.linkedin.com/in/yuri-matos-82954717a/">Linkedin </a>
+  ||
+  <a href="https://outlook.live.com/mail/0/inbox">Email </a>
+</div>
